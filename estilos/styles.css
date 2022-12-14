@@ -1,0 +1,132 @@
+body{background: #333232;}
+
+#login{
+
+/* Login */
+
+
+position: absolute;
+width: 244px;
+height: 63px;
+left: calc(50% - 244px/2);
+top: 231px;
+
+}
+#login2{
+position: absolute;
+left: 0%;
+right: 77.87%;
+top: 0%;
+bottom: 58.73%;
+
+font-family: 'IBM Plex Serif';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+}
+#login3{
+    /* Rectangle 5 */
+
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 47.62%;
+bottom: 0%;
+
+background: #D9D9D9;
+}
+#senha{
+/* Senha */
+
+
+position: absolute;
+width: 244px;
+height: 63px;
+left: calc(50% - 244px/2);
+top: 324px;
+
+}
+#senha2{
+    position: absolute;
+    left: 0%;
+    right: 77.87%;
+    top: 0%;
+    bottom: 58.73%;
+    
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;    
+}
+#senha3{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 47.62%;
+    bottom: 0%;
+    
+    background: #D9D9D9;
+}
+#botão{
+    /* Entrar */
+
+
+    position: absolute;
+    width: 95px;
+    height: 35px;
+    left: calc(50% - 95px/2 - 74.5px);
+    top: 413px;
+}
+#botão2{
+    position: absolute;
+    width: 95px;
+    height: 35px;
+    left: calc(50% - 95px/2 + 74.5px);
+    top: 412px;
+}
+#imagem {
+    position: absolute;
+    width: 191px;
+    height: 191px;
+    left: calc(50% - 191px/2 - 0.5px);
+    top: 20px;
+}
+#esqueci {
+    position: absolute;
+    width: 111px;
+    height: 14px;
+    left: calc(50% - 111px/2 + 0.5px);
+    top: 480px;
+    
+
+}
+h2{
+    font-family: 'IBM Plex Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-decoration-line: underline;
+
+    color: #FFFFFF;
+}
